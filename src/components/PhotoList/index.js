@@ -117,7 +117,7 @@ const PhotoList = ({ category }) => {
     {
       name: 'At Attention',
       category: 'hashtag',
-      description: '"Okay, but when can I get back to napping?',
+      description: '"Okay, but when can I get back to napping?"',
     },
     {
       name: 'Le chat en profil',
@@ -148,6 +148,31 @@ const PhotoList = ({ category }) => {
       name: 'Always Cuddling',
       category: 'rhaegar',
       description: 'Well, maybe not *always,* but he really does like to lay on top of me.',
+    },
+    {
+      name: 'Naps with Friends',
+      category: 'together',
+      description: 'Are they... are they holding paws?!',
+    },
+    {
+      name: 'That One Shot from the Lion King',
+      category: 'together',
+      description: 'A photo so old that Rhaegar is still the smaller of the two cats.',
+    },
+    {
+      name: 'Lazy Sundays',
+      category: 'together',
+      description: 'All predators must laze.',
+    },
+    {
+      name: 'The Ol\' Ear Smooch',
+      category: 'together',
+      description: '"It\'s a sign of affection, okay?"',
+    },
+    {
+      name: 'Table Lords',
+      category: 'together',
+      description: '"We\'re not supposed to be up here, we know, but are you really going to make us move?"',
     },
   ]);
 
