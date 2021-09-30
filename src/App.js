@@ -19,6 +19,21 @@ function App() {
       name: "landscape",
       description: "Fields, farmhouses, waterfalls, and the beauty of nature",
     },
+    {
+      name: "hashtag",
+      description:
+        "Our eldest cat, the big-little sister, Hashtag",
+    },
+    {
+      name: "rhaegar",
+      description:
+        "He cuddles. He muddles. And often, he trundles.",
+    },
+    {
+      name: "together",
+      description:
+        "They're friends. Sometimes.",
+    },
   ]);
 
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
