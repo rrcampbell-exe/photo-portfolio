@@ -3,7 +3,7 @@
 [![license-MIT-blue.png](https://img.shields.io/badge/license-MIT-blue)](#License)
 
 ## Description
-A React application to display a selection of a photographer's best work.
+A React application for sharing photos of my cats. Yes, my actual cats, whose names are Hashtag and Rhaegar. Yes, those are their actual names. I know, I know.
 
 ## Table of Contents
 - [Credits](#credits)
