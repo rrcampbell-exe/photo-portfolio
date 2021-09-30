@@ -12,18 +12,18 @@ function Nav(props) {
 
   useEffect(() => {
     document.title =
-      `Oh Snap! - ` + capitalizeFirstLetter(currentCategory.name);
+      `Petfolio! - ` + capitalizeFirstLetter(currentCategory.name);
   }, [currentCategory]);
 
   return (
     <header className="flex-row px-1">
       <h2>
         <a data-testid="link" href="/">
-          <span role="img" aria-label="camera">
+          <span role="img" aria-label="cat">
             {" "}
-            📸
+            🐈
           </span>{" "}
-          Oh Snap!
+          Petfolio!
         </a>
       </h2>
       <nav>
