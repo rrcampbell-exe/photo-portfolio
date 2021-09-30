@@ -11,7 +11,7 @@ function App() {
     {
       name: "hashtag",
       description:
-        "Our eldest cat, the little big sister, Hashtag",
+        "Our eldest cat, the little big sister, Hashtag.",
     },
     {
       name: "rhaegar",
