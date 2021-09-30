@@ -51,7 +51,7 @@ describe("emoji is visible", () => {
       />
     );
     // Assert
-    expect(getByLabelText("camera")).toHaveTextContent("📸");
+    expect(getByLabelText("cat")).toHaveTextContent("🐈");
   });
 });
 
@@ -64,7 +64,7 @@ describe("links are visible", () => {
         currentCategory={mockCurrentCategory}
       />
     );
-    expect(getByTestId("link")).toHaveTextContent("Oh Snap!");
-    expect(getByTestId("about")).toHaveTextContent("About me");
+    expect(getByTestId("link")).toHaveTextContent("Petfolio!");
+    expect(getByTestId("about")).toHaveTextContent("About");
   });
 });
