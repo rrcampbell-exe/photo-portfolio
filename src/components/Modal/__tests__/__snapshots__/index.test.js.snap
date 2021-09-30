@@ -11,13 +11,13 @@ exports[`Modal component matches snapshot DOM node structure 1`] = `
       <h3
         class="modalTitle"
       >
-        Park bench
+        Portrait of the Artist as a Young Cat
       </h3>
       <img
         alt="current category"
       />
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie
+        Okay, so she wasn't *super* young when this photo was taken, but she's still looking good in her older age.
       </p>
       <button
         type="button"
