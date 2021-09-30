@@ -4,52 +4,47 @@ exports[`Contact component renders matches snapshot 1`] = `
 <DocumentFragment>
   <section>
     <h1>
-      Contact me
+      Contact
     </h1>
-    <form
-      id="contact-form"
-    >
-      <div>
-        <label
-          for="name"
-        >
-          Name:
-        </label>
-        <input
-          name="name"
-          type="text"
-          value=""
-        />
-      </div>
-      <div>
-        <label
-          for="email"
-        >
-          Email address:
-        </label>
-        <input
-          name="email"
-          type="email"
-          value=""
-        />
-      </div>
-      <div>
-        <label
-          for="message"
-        >
-          Message:
-        </label>
-        <textarea
-          name="message"
-          rows="5"
-        />
-      </div>
-      <button
-        type="submit"
+    <p>
+      Did you know I'm on the internet? Oh, uh, I suppose you did.
+    </p>
+    <p>
+      But did you know I'm 
+      <i>
+        these places
+      </i>
+       on the internet? Ha! I bet not.
+    </p>
+    <ul>
+      <a
+        href="https://rrcampbell-exe.github.io/"
+        rel="noreferrer"
+        target="_blank"
       >
-        Submit
-      </button>
-    </form>
+        <li>
+          Dev Portfolio
+        </li>
+      </a>
+      <a
+        href="https://github.com/rrcampbell-exe"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <li>
+          GitHub
+        </li>
+      </a>
+      <a
+        href="https://www.linkedin.com/in/ryan-campbell-aa33169/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <li>
+          LinkedIn
+        </li>
+      </a>
+    </ul>
   </section>
 </DocumentFragment>
 `;

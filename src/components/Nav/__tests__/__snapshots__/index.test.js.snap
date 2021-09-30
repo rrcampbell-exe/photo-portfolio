@@ -11,12 +11,13 @@ exports[`Nav component matches snapshot 1`] = `
         href="/"
       >
         <span
-          aria-label="camera"
+          aria-label="cat"
+          id="navbar"
           role="img"
         >
-           📸
+           🐈
         </span>
-         Oh Snap!
+         Petfolio!
       </a>
     </h2>
     <nav>
@@ -30,7 +31,7 @@ exports[`Nav component matches snapshot 1`] = `
             data-testid="about"
             href="#about"
           >
-            About me
+            About
           </a>
         </li>
         <li
