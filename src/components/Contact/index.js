@@ -8,9 +8,9 @@ function ContactPage() {
       <p>Did you know I'm on the internet? Oh, uh, I suppose you did.</p> 
       <p>But did you know I'm <i>these places</i> on the internet? Ha! I bet not.</p>
       <ul>
-        <a href="https://rrcampbell-exe.github.io/" rel="noreferrer"><li>Dev Portfolio</li></a>
-        <a href="https://github.com/rrcampbell-exe" rel="noreferrer"><li>GitHub</li></a>
-        <a href="https://www.linkedin.com/in/ryan-campbell-aa33169/" rel="noreferrer"><li>LinkedIn</li></a>
+        <a href="https://rrcampbell-exe.github.io/" rel="noreferrer" target="_blank"><li>Dev Portfolio</li></a>
+        <a href="https://github.com/rrcampbell-exe" rel="noreferrer" target="_blank"><li>GitHub</li></a>
+        <a href="https://www.linkedin.com/in/ryan-campbell-aa33169/" rel="noreferrer" target="_blank"><li>LinkedIn</li></a>
       </ul>
     </section>
   );
