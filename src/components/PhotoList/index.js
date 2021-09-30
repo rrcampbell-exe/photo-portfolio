@@ -5,101 +5,6 @@ const PhotoList = ({ category }) => {
 
   const [photos] = useState([
     {
-      name: 'Grocery aisle',
-      category: 'commercial',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Grocery booth',
-      category: 'commercial',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Building exterior',
-      category: 'commercial',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Restaurant table',
-      category: 'commercial',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Cafe interior',
-      category: 'commercial',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Cat green eyes',
-      category: 'portraits',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Green parrot',
-      category: 'portraits',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Yellow macaw',
-      category: 'portraits',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Pug smile',
-      category: 'portraits',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Pancakes',
-      category: 'food',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Burrito',
-      category: 'food',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Scallop pasta',
-      category: 'food',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Burger',
-      category: 'food',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Fruit bowl',
-      category: 'food',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Green river',
-      category: 'landscape',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Docks',
-      category: 'landscape',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Panoramic village by sea',
-      category: 'landscape',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Domestic landscape',
-      category: 'landscape',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
-      name: 'Park bench',
-      category: 'landscape',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
-    },
-    {
       name: 'Portrait of the Artist as a Young Cat',
       category: 'hashtag',
       description: 'Okay, so she wasn\'t *super* young when this photo was taken, but she\'s still looking good in her older age.',
@@ -151,27 +56,27 @@ const PhotoList = ({ category }) => {
     },
     {
       name: 'Naps with Friends',
-      category: 'together',
+      category: 'two-gether',
       description: 'Are they... are they holding paws?!',
     },
     {
       name: 'That One Shot from the Lion King',
-      category: 'together',
+      category: 'two-gether',
       description: 'A photo so old that Rhaegar is still the smaller of the two cats.',
     },
     {
       name: 'Lazy Sundays',
-      category: 'together',
+      category: 'two-gether',
       description: 'All predators must laze.',
     },
     {
       name: 'The Ol\' Ear Smooch',
-      category: 'together',
+      category: 'two-gether',
       description: '"It\'s a sign of affection, okay?"',
     },
     {
       name: 'Table Lords',
-      category: 'together',
+      category: 'two-gether',
       description: '"We\'re not supposed to be up here, we know, but are you really going to make us move?"',
     },
   ]);
