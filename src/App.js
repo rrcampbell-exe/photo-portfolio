@@ -16,7 +16,7 @@ function App() {
     {
       name: "rhaegar",
       description:
-        "He cuddles. He muddles. And often, he trundles.",
+        "He cuddles. He trundles. And often, he bundles (up).",
     },
     {
       name: "two-gether",
